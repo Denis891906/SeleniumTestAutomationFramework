@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.589 sec <<< FAILURE! - in TestSuite
+OpenRozetkaHome(FrameWork.selenium.testng.OpenRozetkaHome)  Time elapsed: 0.094 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at FrameWork.selenium.testng.OpenRozetkaHome.OpenRozetkaHome(OpenRozetkaHome.java:13)
+

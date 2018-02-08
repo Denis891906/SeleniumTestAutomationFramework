@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FrameworkTests" duration-ms="72897" started-at="2018-02-03T08:07:10Z" finished-at="2018-02-03T08:08:23Z">
+    <groups>
+    </groups>
+    <test name="RozetkaTests" duration-ms="72897" started-at="2018-02-03T08:07:10Z" finished-at="2018-02-03T08:08:23Z">
+      <class name="FrameWork.selenium.testng.Tests.CheckRozetkaSearch">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:FrameWork.selenium.testng.Tests.CheckRozetkaSearch@4501b7af]" name="beforeTest" is-config="true" duration-ms="11871" started-at="2018-02-03T10:06:58Z" finished-at="2018-02-03T10:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="CheckRozetkaSearch(java.lang.String)[pri:0, instance:FrameWork.selenium.testng.Tests.CheckRozetkaSearch@4501b7af]" name="CheckRozetkaSearch" duration-ms="48147" started-at="2018-02-03T10:07:10Z" data-provider="CheckRozetkaSearch" finished-at="2018-02-03T10:07:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy s8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckRozetkaSearch -->
+        <test-method status="PASS" signature="CheckRozetkaSearch(java.lang.String)[pri:0, instance:FrameWork.selenium.testng.Tests.CheckRozetkaSearch@4501b7af]" name="CheckRozetkaSearch" duration-ms="24575" started-at="2018-02-03T10:07:58Z" data-provider="CheckRozetkaSearch" finished-at="2018-02-03T10:08:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo Vibe S1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckRozetkaSearch -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:FrameWork.selenium.testng.Tests.CheckRozetkaSearch@4501b7af]" name="afterTest" is-config="true" duration-ms="921" started-at="2018-02-03T10:08:23Z" finished-at="2018-02-03T10:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- FrameWork.selenium.testng.Tests.CheckRozetkaSearch -->
+    </test> <!-- RozetkaTests -->
+  </suite> <!-- FrameworkTests -->
+</testng-results>

@@ -1,0 +1,8 @@
+Task:
+1. Create the Test Automation Framework using:
+	Maven
+	TestNG
+	JUnit
+	Selenide
+	Seleniume Based Framework
+2. User 4 brousers for tests:

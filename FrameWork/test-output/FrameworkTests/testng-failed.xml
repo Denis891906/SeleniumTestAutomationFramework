@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [FrameworkTests]">
+  <test verbose="0" name="RozetkaTests(failed)">
+    <classes>
+      <class name="FrameWork.selenium.testng.OpenRozetkaHome">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="OpenRozetkaHome"/>
+        </methods>
+      </class> <!-- FrameWork.selenium.testng.OpenRozetkaHome -->
+    </classes>
+  </test> <!-- RozetkaTests(failed) -->
+</suite> <!-- Failed suite [FrameworkTests] -->
